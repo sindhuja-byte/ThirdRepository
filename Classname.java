@@ -15,7 +15,7 @@ public class Classname {
 			int add =tam+eng+mat+sci+soc;
 			int average=add/5;
 		
-		System.out.println(average);
+		System.out.println(average+"VALUES");
 		}
 		
 		
